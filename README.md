@@ -1,6 +1,6 @@
 ## Hi I'm Mohamed <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
 
-I'm Mohamed Nabil Machine Learning Engineer trainee 
+I'm Mohamed Nabil, Machine Learning Engineer trainee <br> 
 :mailbox: Reach me out!
 
 [![Linkedin Badge](https://img.shields.io/badge/-Mohamed-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-nabil-4898991b3/) [![Mail Badge](https://img.shields.io/badge/-Mohamed-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:mohnabil2014m@gmail.com)
