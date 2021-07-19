@@ -24,14 +24,8 @@ I'm Mohamed Nabil, Machine Learning Engineer trainee <br>
 
 ## :trophy: My Github Stats:
 
-<div>
-<a href="https://readme-stats-cfgj2cxdy.vercel.app/api?username=mohnabil2020&count_private=true&show_icons=true&theme=tokyonight">
-  <img  align="left" src="https://readme-stats-cfgj2cxdy.vercel.app/api?username=mohnabil2020&count_private=true&show_icons=true&theme=tokyonight" />
-</a>
-<a href="https://readme-stats-cfgj2cxdy.vercel.app/api/top-langs/?username=mohnabil2020&hide=php&theme=tokyonight">
-  <img align="left" src="https://readme-stats-cfgj2cxdy.vercel.app/api/top-langs/?username=mohnabil2020&hide=php&theme=tokyonight" />
-</div>
-
+[![mohnabil2020 Stats](https://github-readme-stats.vercel.app/api/?username=mohnabil2020&count_private=true&theme=tokyonight&showicons=true)]()
+[![mohnabil2020 Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=mohnabil2020&langs_count=5&theme=tokyonight)]()
 
 
 
