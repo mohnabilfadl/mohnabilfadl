@@ -10,7 +10,7 @@ I'm Mohamed Nabil, Machine Learning Engineer trainee <br>
 - 👋 Hi, I’m Mohamed Nabil
 -  👀 I’m interested in machine learning
 - 🌱 I’m currently learning AI & machine learning
-- 📫 How to reach me https://www.linkedin.com/in/mohamed-nabil-4898991b3/ , https://www.kaggle.com/eng0mohamed0nabil
+- 📫 How to reach me https://www.linkedin.com/in/mohamed-nabil-fadl/ , https://www.kaggle.com/eng0mohamed0nabil
 
 
 #### Top Technologies used here 
