@@ -29,5 +29,7 @@ I'm Mohamed Nabil, Machine Learning Engineer trainee <br>
 [![mohnabil2020 Stats](https://github-readme-stats.vercel.app/api/?username=mohnabil2020&count_private=true&theme=tokyonight&showicons=true)]()
 [![mohnabil2020 Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=mohnabil2020&langs_count=5&theme=tokyonight)]()
 
-
-
+## [<img src="https://kaggle.com/static/images/site-logo.png" height="50"/>](https://kaggle.com) Stats:
+![dataset](https://road-to-kaggle-grandmaster.vercel.app/api/badges/eng0mohamed0nabil/dataset)
+![notebook](https://road-to-kaggle-grandmaster.vercel.app/api/badges/eng0mohamed0nabil/notebook)
+![discussion](https://road-to-kaggle-grandmaster.vercel.app/api/badges/eng0mohamed0nabil/discussion)
