@@ -3,7 +3,7 @@
 I'm Mohamed Fadl, Machine Learning Engineer trainee <br> 
 :mailbox: Reach me out!
 
-[![Linkedin Badge](https://img.shields.io/badge/-Mohamed_Nabil-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-fadl/)
+[![Linkedin Badge](https://img.shields.io/badge/-Mohamed_Fadl-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-fadl/)
 
 <!-- TODO: Add last video link -->
 
