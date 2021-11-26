@@ -1,14 +1,14 @@
 ## Hi I'm Mohamed <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
 
-I'm Mohamed Nabil, Machine Learning Engineer trainee <br> 
+I'm Mohamed Fadl, Machine Learning Engineer trainee <br> 
 :mailbox: Reach me out!
 
-[![Linkedin Badge](https://img.shields.io/badge/-Mohamed_Nabil-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-fadl/) [![Mail Badge](https://img.shields.io/badge/-Mohamed_Nabil-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:mohnabil2014m@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-Mohamed_Nabil-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-fadl/)
 
 <!-- TODO: Add last video link -->
 
-- 👋 Hi, I’m Mohamed Nabil
--  👀 I’m interested in machine learning
+- 👋 Hi, I’m Mohamed Fadl
+- 👀 I’m interested in machine learning
 - 🌱 I’m currently learning AI & machine learning
 - 📫 How to reach me https://www.linkedin.com/in/mohamed-fadl/ , https://www.kaggle.com/eng0mohamed0nabil
 
