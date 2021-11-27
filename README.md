@@ -26,8 +26,8 @@ I'm Mohamed Fadl, Machine Learning Engineer trainee <br>
 
 ## :trophy: My Github Stats:
 
-[![mohnabil2020 Stats](https://github-readme-stats.vercel.app/api/?username=mohnabil2020&count_private=true&theme=tokyonight&showicons=true)]()
-[![mohnabil2020 Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=mohnabil2020&langs_count=5&theme=tokyonight)]()
+[![mohnabilfadl Stats](https://github-readme-stats.vercel.app/api/?username=mohnabilfadl&count_private=true&theme=tokyonight&showicons=true)]()
+[![mohnabilfadl Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=mohnabilfadl&langs_count=5&theme=tokyonight)]()
 
 ## [<img src="https://kaggle.com/static/images/site-logo.png" height="50"/>](https://kaggle.com) Stats:
 ![dataset](https://road-to-kaggle-grandmaster.vercel.app/api/badges/eng0mohamed0nabil/dataset)
