@@ -26,11 +26,11 @@ I'm Mohamed Fadl, Machine Learning Engineer trainee <br>
 
 ## :trophy: My Github Stats:
 
-![mohnabilfadl streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=mohnabilfadl&theme=tokyonight)
+![mohnabilfadl streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=mohnabilfadl&theme=tokyonight&show_icons=true)
 
-![mohnabilfadl Stats](https://github-readme-stats.vercel.app/api?username=mohnabilfadl&theme=tokyonight)
+![mohnabilfadl Stats](https://github-readme-stats.vercel.app/api?username=mohnabilfadl&theme=tokyonight&show_icons=true)
 
-![mohnabilfadl Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=mohnabilfadl&theme=tokyonight)
+![mohnabilfadl Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=mohnabilfadl&theme=tokyonight&show_icons=true)
 
 
 ## [<img src="https://kaggle.com/static/images/site-logo.png" height="50"/>](https://kaggle.com) Stats:
