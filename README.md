@@ -27,7 +27,7 @@ I'm Mohamed Fadl, Machine Learning Engineer  <br>
 
 <br/>
 
-## :trophy: My Github Stats:
+## :trophy: GITHUB STATS:
 [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 ![mohnabilfadl streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=mohnabilfadl&theme=tokyonight&show_icons=true)
@@ -37,7 +37,7 @@ I'm Mohamed Fadl, Machine Learning Engineer  <br>
 ![mohnabilfadl Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=mohnabilfadl&theme=tokyonight&show_icons=true)
 
 
-## [<img src="https://kaggle.com/static/images/site-logo.png" height="50"/>](https://kaggle.com) Stats:
+## [<img src="https://kaggle.com/static/images/site-logo.png" height="50"/>](https://kaggle.com) STATS:
 ![dataset](https://road-to-kaggle-grandmaster.vercel.app/api/badges/eng0mohamed0nabil/dataset)
 ![notebook](https://road-to-kaggle-grandmaster.vercel.app/api/badges/eng0mohamed0nabil/notebook)
 ![discussion](https://road-to-kaggle-grandmaster.vercel.app/api/badges/eng0mohamed0nabil/discussion)
