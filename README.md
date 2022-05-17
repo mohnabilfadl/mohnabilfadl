@@ -33,7 +33,7 @@ I'm Mohamed Fadl, Machine Learning Engineer  <br>
 
 ![mohnabilfadl Stats](https://github-readme-stats.vercel.app/api?username=mohnabilfadl&theme=tokyonight&show_icons=true)
 
-![mohnabilfadl Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=mohnabilfadl&theme=tokyonight&show_icons=true)
+![mohnabilfadl Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=mohnabilfadl&layout=compact&theme=tokyonight&show_icons=true)
 
 
 ## [<img src="https://kaggle.com/static/images/site-logo.png" height="50"/>](https://kaggle.com) Stats:
