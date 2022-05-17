@@ -28,7 +28,7 @@ I'm Mohamed Fadl, Machine Learning Engineer  <br>
 <br/>
 
 ## :trophy: GITHUB STATS:
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark&row=2&column=3)](https://github.com/ryo-ma/github-profile-trophy)
 
 ![mohnabilfadl streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=mohnabilfadl&theme=tokyonight&show_icons=true)
 
