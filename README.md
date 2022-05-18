@@ -10,8 +10,6 @@
 
 
 
-<!-- TODO: Add last video link -->
-
 - 👋 Hi, I’m Mohamed Fadl
 - 👀 I’m interested in Data Science 
 - 🌱 I’m currently learning AI & machine learning
