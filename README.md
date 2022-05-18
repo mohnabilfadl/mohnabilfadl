@@ -2,9 +2,8 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
 
-## Hi I'm Mohamed Fadl <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
+## Hi I'm Mohamed Fadl <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi"> Machine Learning Engineer && Data Scientist && Data Analyst
 
-I'm Mohamed Fadl, Machine Learning Engineer && Data Scientist && Data Analyst  <br> 
 :mailbox: Reach me out!
 
 [![Linkedin Badge](https://img.shields.io/badge/-Mohamed_Fadl-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-fadl/)
@@ -14,7 +13,7 @@ I'm Mohamed Fadl, Machine Learning Engineer && Data Scientist && Data Analyst  <
 <!-- TODO: Add last video link -->
 
 - 👋 Hi, I’m Mohamed Fadl
-- 👀 I’m interested in machine learning 
+- 👀 I’m interested in Data Science 
 - 🌱 I’m currently learning AI & machine learning
 - 📫 How to reach me https://www.linkedin.com/in/mohamed-fadl/ , https://www.kaggle.com/eng0mohamed0nabil
 
