@@ -26,8 +26,8 @@
 
 ## :trophy: GITHUB STATS:
 
-![mohnabilfadl Stats](https://github-readme-stats.vercel.app/api?username=mohnabilfadl&theme=tokyonight&show_icons=true)
-![mohnabilfadl streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=mohnabilfadl&theme=tokyonight&show_icons=true)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mohnabilfadl&theme=gruvbox&show_icons=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mohnabilfadl&theme=gruvbox&layout=compact)](https://git.io/streak-stats)
 
 
 ## [<img src="https://kaggle.com/static/images/site-logo.png" height="50"/>](https://kaggle.com) STATS:
