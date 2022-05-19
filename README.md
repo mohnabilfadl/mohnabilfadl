@@ -10,10 +10,10 @@
 
 
 
-- 👋 Hi, I’m Mohamed Fadl
-- 👀 I’m interested in Data Science 
-- 🌱 I’m currently learning AI & machine learning
-- 📫 How to reach me https://www.linkedin.com/in/mohamed-fadl/ , https://www.kaggle.com/eng0mohamed0nabil
+- 👋 Hi, I’m Mohamed Fadl.
+- 👀 I’m interested in Data Science. 
+- 🌱 I’m currently learning AI & machine learning.
+- 📫 How to reach me https://www.linkedin.com/in/mohamed-fadl/ , https://www.kaggle.com/eng0mohamed0nabil.
 
 
 ## Top Technologies used here 
