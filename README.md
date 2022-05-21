@@ -9,7 +9,6 @@
 [![Linkedin Badge](https://img.shields.io/badge/-Mohamed_Fadl-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-fadl/)
 
 
-
 - 👋 Hi, I’m Mohamed Fadl.
 - 👀 I’m interested in Data Science. 
 - 🌱 I’m currently learning AI & machine learning.
