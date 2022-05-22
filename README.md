@@ -1,4 +1,4 @@
-![GitHub Views](https://komarev.com/ghpvc/?username=mohnabilfadl)
+![GitHub Views](https://komarev.com/ghpvc/?username=mohnabilfadl).
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
 
