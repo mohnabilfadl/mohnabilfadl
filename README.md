@@ -29,7 +29,7 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mohnabilfadl&theme=gruvbox)](https://git.io/streak-stats)
 
 
-## [<img src="https://kaggle.com/static/images/site-logo.png" height="50"/>](https://kaggle.com) STATS:
+## [<img src="https://kaggle.com/static/images/site-logo.png" height="50"/>](https://kaggle.com) STATS:-
 
 ![dataset](https://road-to-kaggle-grandmaster.vercel.app/api/badges/eng0mohamed0nabil/dataset)
 ![notebook](https://road-to-kaggle-grandmaster.vercel.app/api/badges/eng0mohamed0nabil/notebook)
