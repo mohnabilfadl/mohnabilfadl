@@ -2,7 +2,7 @@
  
 ![GitHub Views](https://komarev.com/ghpvc/?username=mohnabilfadl).
 
-# Mohamed Fadl  Machine Learning Engineer && Data Scientist && Data Analyst. Nice to Meet You.:blush:
+# Machine Learning Engineer && Data Scientist && Data Analyst. 
 :mailbox: Reach me out!
 
 [![Linkedin Badge](https://img.shields.io/badge/-Mohamed_Fadl-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-fadl/)
