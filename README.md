@@ -1,9 +1,10 @@
-<p align="left"><img width=10%" src="https://github.com/alansmathew/alansmathew/raw/master/lang.gif" alt="lang image here" /></p>
- 
 ![GitHub Views](https://komarev.com/ghpvc/?username=mohnabilfadl).
 
+<p align="left"><img width=10%" src="https://github.com/alansmathew/alansmathew/raw/master/lang.gif" alt="lang image here" /></p>
+ 
+
 # Machine Learning Engineer && Data Scientist && Data Analyst. 
-:mailbox: Reach me out!
+## :mailbox: Reach me out!
 
 [![Linkedin Badge](https://img.shields.io/badge/-Mohamed_Fadl-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-fadl/)
 
