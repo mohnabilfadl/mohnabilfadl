@@ -1,9 +1,8 @@
+<p align="left"><img width=10%" src="https://github.com/alansmathew/alansmathew/raw/master/lang.gif" alt="lang image here" /></p>
+ 
 ![GitHub Views](https://komarev.com/ghpvc/?username=mohnabilfadl).
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy).
-
-## Hi I'm Mohamed Fadl <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi"> Machine Learning Engineer && Data Scientist && Data Analyst.
-
+# Mohamed Fadl  Machine Learning Engineer && Data Scientist && Data Analyst. Nice to Meet You.:blush:
 :mailbox: Reach me out!
 
 [![Linkedin Badge](https://img.shields.io/badge/-Mohamed_Fadl-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-fadl/)
@@ -25,8 +24,10 @@
 
 ## :trophy: GITHUB STATS:
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mohnabilfadl&theme=gruvbox&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy).
+[![Mohamed's GitHub stats](https://github-readme-stats.vercel.app/api?username=mohnabilfadl&theme=gruvbox&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mohnabilfadl&theme=gruvbox)](https://git.io/streak-stats)
+ [![Mohamed's github activity graph](https://activity-graph.herokuapp.com/graph?username=mohnabilfadl&theme=xcode)](https://git.io/mohnabilfadl)
 
 
 ## [<img src="https://kaggle.com/static/images/site-logo.png" height="50"/>](https://kaggle.com) STATS:-
