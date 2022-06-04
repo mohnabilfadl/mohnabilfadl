@@ -30,7 +30,7 @@
  [![Mohamed's github activity graph](https://activity-graph.herokuapp.com/graph?username=mohnabilfadl&theme=xcode)](https://git.io/mohnabilfadl)
 
 
-## [<img src="https://kaggle.com/static/images/site-logo.png" height="50"/>](https://kaggle.com) STATS:-
+## [<img src="https://kaggle.com/static/images/site-logo.png" height="50"/>](https://kaggle.com) STATS:
 
 ![dataset](https://road-to-kaggle-grandmaster.vercel.app/api/badges/eng0mohamed0nabil/dataset)
 ![notebook](https://road-to-kaggle-grandmaster.vercel.app/api/badges/eng0mohamed0nabil/notebook)
