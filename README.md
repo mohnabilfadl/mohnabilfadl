@@ -27,8 +27,7 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy).
 [![Mohamed's GitHub stats](https://github-readme-stats.vercel.app/api?username=mohnabilfadl&theme=gruvbox&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mohnabilfadl&theme=gruvbox)](https://git.io/streak-stats)
- [![Mohamed's github activity graph](https://activity-graph.herokuapp.com/graph?username=mohnabilfadl&theme=xcode)](https://git.io/mohnabilfadl)
-
+ 
 
 ## [<img src="https://kaggle.com/static/images/site-logo.png" height="50"/>](https://kaggle.com) STATS:
 
