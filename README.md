@@ -24,7 +24,6 @@
 
 ## :trophy: GITHUB STATS:
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy).
 [![Mohamed's GitHub stats](https://github-readme-stats.vercel.app/api?username=mohnabilfadl&theme=gruvbox&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mohnabilfadl&theme=gruvbox)](https://git.io/streak-stats)
  
