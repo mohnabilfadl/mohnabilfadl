@@ -1,6 +1,6 @@
 ![GitHub Views](https://komarev.com/ghpvc/?username=mohnabilfadl).
 
-<p align="left"><img width=15%" src="https://github.com/alansmathew/alansmathew/raw/master/lang.gif" alt="lang image here" /></p>
+<p align="left"><img width=50%" src="https://github.com/alansmathew/alansmathew/raw/master/lang.gif" alt="lang image here" /></p>
  
 
 # Machine Learning Engineer && Data Scientist && Data Analyst. 
