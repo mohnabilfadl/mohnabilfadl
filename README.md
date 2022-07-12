@@ -1,12 +1,12 @@
-![GitHub Views](https://komarev.com/ghpvc/?username=mohnabilfadl).
+<div align='middle'>
 
-<p align="left"><img width=50%" src="https://github.com/alansmathew/alansmathew/raw/master/lang.gif" alt="lang image here" /></p>
+![GitHub Views](https://komarev.com/ghpvc/?username=mohnabilfadl)
+
+<p><img width=50%" src="https://github.com/alansmathew/alansmathew/raw/master/lang.gif" alt="lang image here" /></p>
  
 
 # Machine Learning Engineer && Data Scientist && Data Analyst. 
-## :mailbox: Reach me out!
-
-[![Linkedin Badge](https://img.shields.io/badge/-Mohamed_Fadl-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-fadl/)
+## :mailbox: Reach me out! >>>>>>>>>> [![Linkedin Badge](https://img.shields.io/badge/-Mohamed_Fadl-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-fadl/)
 
 ## Top Technologies used here:
 
@@ -27,3 +27,5 @@
 ![dataset](https://road-to-kaggle-grandmaster.vercel.app/api/badges/eng0mohamed0nabil/dataset)
 ![notebook](https://road-to-kaggle-grandmaster.vercel.app/api/badges/eng0mohamed0nabil/notebook)
 ![discussion](https://road-to-kaggle-grandmaster.vercel.app/api/badges/eng0mohamed0nabil/discussion)
+
+</div>
