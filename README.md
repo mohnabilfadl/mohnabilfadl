@@ -5,7 +5,7 @@
 <p><img width=50%" src="https://github.com/alansmathew/alansmathew/raw/master/lang.gif" alt="lang image here" /></p>
  
 
-# Machine Learning Engineer && Data Scientist && Data Analyst. 
+# Machine Learning Engineer && Data Scientist && Data Analyst
 ## :mailbox: Reach me out! >>>>>>>>>> [![Linkedin Badge](https://img.shields.io/badge/-Mohamed_Fadl-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-fadl/)
 
 ## Top technologies used
