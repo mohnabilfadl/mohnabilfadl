@@ -23,6 +23,9 @@
  
 
 ## [<img src="https://kaggle.com/static/images/site-logo.png" height="50"/>](https://kaggle.com) STATS:
+![image](https://user-images.githubusercontent.com/63733989/187078501-2651970e-470f-4d26-92d2-88a2439ef7d8.png)
+
+![your id](https://road-to-kaggle-grandmaster.vercel.app/api/simple/eng0mohamed0nabil)
 
 ![dataset](https://road-to-kaggle-grandmaster.vercel.app/api/badges/eng0mohamed0nabil/dataset)
 ![notebook](https://road-to-kaggle-grandmaster.vercel.app/api/badges/eng0mohamed0nabil/notebook)
