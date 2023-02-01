@@ -5,7 +5,7 @@
 <p><img width=50%" src="https://github.com/alansmathew/alansmathew/raw/master/lang.gif" alt="lang image here" /></p>
  
 
-# Machine Learning Engineer && Data Scientist && Data Analyst
+# Software Engineer Engineer && Machine Learning Engineer
 ## :mailbox: Reach me out! >>>>>>>>>> [![Linkedin Badge](https://img.shields.io/badge/-Mohamed_Fadl-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-fadl/)
 
 ## Top technologies used
@@ -25,10 +25,6 @@
 ## [<img src="https://kaggle.com/static/images/site-logo.png" height="50"/>](https://kaggle.com) STATS:
 ![image](https://user-images.githubusercontent.com/63733989/187078501-2651970e-470f-4d26-92d2-88a2439ef7d8.png)
 
-![your id](https://road-to-kaggle-grandmaster.vercel.app/api/simple/eng0mohamed0nabil)
-
-![dataset](https://road-to-kaggle-grandmaster.vercel.app/api/badges/eng0mohamed0nabil/dataset)
-![notebook](https://road-to-kaggle-grandmaster.vercel.app/api/badges/eng0mohamed0nabil/notebook)
-![discussion](https://road-to-kaggle-grandmaster.vercel.app/api/badges/eng0mohamed0nabil/discussion)
+![image](https://user-images.githubusercontent.com/63733989/215995429-8e5ec0dc-e8a1-4a66-89a7-ef372adc186a.png)
 
 </div>
